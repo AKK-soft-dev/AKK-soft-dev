@@ -42,6 +42,25 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKK-soft-dev&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKK-soft-dev&theme=dracula)
 
+  <!--- stats (start) -->
+<table>
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AKK-soft-dev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AKK-soft-dev&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akk-soft-dev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 <br>
 <br>
