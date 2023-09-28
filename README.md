@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<h3>My Github Stats</h3>
+### <picture><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/></picture> <b>My Github Stats</b>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKK-soft-dev&theme=dracula) 
 
@@ -43,7 +43,7 @@
 <br>
 <br>
 
-<h3>Wakatime Stats</h3>
+### <picture><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/></picture> <b>Wakatime Stats</b>
 
 ![Aung Ko Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungkoko&layout=compact&theme=github_dark)
 
