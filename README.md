@@ -22,6 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=white&logo=MUI&logoColor=blue&label=)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=blueviolet&logo=redux&logoColor=white&label=)
+![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=eb2424&logo=reactquery&logoColor=white&label=)
 
 <h4>Developer Tools</h4>
 
