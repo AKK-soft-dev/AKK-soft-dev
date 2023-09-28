@@ -21,12 +21,12 @@
 ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=white&logo=MUI&logoColor=blue&label=)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=blueviolet&logo=redux&logoColor=white&label=)
 
-<h4>Developer Tools<h4>
+<h4>Developer Tools</h4>
 
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
-
+</div>
 <br>
 <br>
 
