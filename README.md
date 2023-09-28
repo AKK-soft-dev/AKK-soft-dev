@@ -1,4 +1,6 @@
-
+<img src="https://komarev.com/ghpvc/?username=akk-soft-dev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="isaaclal" />
+    
 <a href="https://github.com/AKK-soft-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Aung+Ko+Ko;Frontend+Web+Developer" alt="Typing SVG" />
 </a>
