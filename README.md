@@ -48,20 +48,13 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 <br>
-<br>
 
 ### <picture><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/></picture> <b>Wakatime Stats</b>
-
 ![Aung Ko Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungkoko&layout=compact&theme=github_dark)
-
-<br>
-<br>
-<br>
-<p align="center"">
+<!-- <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
-<br>
-<br>
+</p> -->
+<!--
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -86,5 +79,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
 
