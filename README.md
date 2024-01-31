@@ -46,9 +46,6 @@
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aungkoko-coding&theme=dracula&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 <!--- stats (end) -->
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-<br>
-
 ### <picture><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/></picture> <b>Wakatime Stats</b>
 ![Aung Ko Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aungkoko&layout=compact&theme=github_dark)
 <!-- <p align="center"">
